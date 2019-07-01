@@ -1,5 +1,5 @@
 # Text 2 Speech
-🔊 Text to Speech Android Application
+🔊 A simple Text to Speech Android Application
 
 ## Screenshot
 
