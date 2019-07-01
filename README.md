@@ -4,5 +4,5 @@
 ## Screenshot
 
 <p align="center">
-  <img width="250" height="500" src="Screenshot.png">
+  <img width="260" height="450" src="Screenshot.png">
 </p>
