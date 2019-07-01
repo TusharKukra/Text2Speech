@@ -4,5 +4,5 @@
 ## Screenshot
 ![](Screenshot.png | width="100")
 <p align="center">
-  <img width="460" height="300" src="Screenshot.png">
+  <img width="200" height="800" src="Screenshot.png">
 </p>
