@@ -2,7 +2,7 @@
 🔊 Text to Speech Android Application
 
 ## Screenshot
-![](Screenshot.png | width="100")
+
 <p align="center">
-  <img width="200" height="800" src="Screenshot.png">
+  <img width="250" height="550" src="Screenshot.png">
 </p>
