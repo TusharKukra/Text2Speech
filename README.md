@@ -1,5 +1,5 @@
-# Text-To-Speech-Android
-🎤 Text-To-Speech Android App
+# Text 2 Speech
+🔊 Text to Speech Android Application
 
 ## Screenshot
-![](screenshot.png)
+![](Screenshot.png)
