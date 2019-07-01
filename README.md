@@ -2,4 +2,4 @@
 🔊 Text to Speech Android Application
 
 ## Screenshot
-![](Screenshot.png)
+![](Screenshot.png| width=100)
